@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\kiril\OneDrive\Рабочий стол\2Kurs\WinApiLabbs\Laba4Dll\Laba4Dll\Source.cpp(7,56): warning C4273: sendNames: несовместимое связывание dll
+C:\Users\kiril\OneDrive\Рабочий стол\2Kurs\WinApiLabbs\Laba4Dll\Laba4Dll\Laba4Dll.h(12,34): message : см. предыдущее определение "sendNames"
+C:\Users\kiril\OneDrive\Рабочий стол\2Kurs\WinApiLabbs\Laba4Dll\Laba4Dll\Source.cpp(16,137): warning C4273: button: несовместимое связывание dll
+C:\Users\kiril\OneDrive\Рабочий стол\2Kurs\WinApiLabbs\Laba4Dll\Laba4Dll\Laba4Dll.h(14,33): message : см. предыдущее определение "button"
+C:\Users\kiril\OneDrive\Рабочий стол\2Kurs\WinApiLabbs\Laba4Dll\Laba4Dll\Source.cpp(38): warning C4715: button: значение возвращается не при всех путях выполнения
+  Laba4Dll.vcxproj -> C:\Users\kiril\OneDrive\Рабочий стол\2Kurs\WinApiLabbs\Laba4Dll\Debug\Laba4Dll.dll

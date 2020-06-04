@@ -1,0 +1,13 @@
+C:\Users\kiril\OneDrive\Рабочий стол\2Kurs\WinApiLabbs\LabaSharp5\LabaSharp5\bin\Debug\netcoreapp3.1\LabaSharp5.exe
+C:\Users\kiril\OneDrive\Рабочий стол\2Kurs\WinApiLabbs\LabaSharp5\LabaSharp5\bin\Debug\netcoreapp3.1\LabaSharp5.deps.json
+C:\Users\kiril\OneDrive\Рабочий стол\2Kurs\WinApiLabbs\LabaSharp5\LabaSharp5\bin\Debug\netcoreapp3.1\LabaSharp5.runtimeconfig.json
+C:\Users\kiril\OneDrive\Рабочий стол\2Kurs\WinApiLabbs\LabaSharp5\LabaSharp5\bin\Debug\netcoreapp3.1\LabaSharp5.runtimeconfig.dev.json
+C:\Users\kiril\OneDrive\Рабочий стол\2Kurs\WinApiLabbs\LabaSharp5\LabaSharp5\bin\Debug\netcoreapp3.1\LabaSharp5.dll
+C:\Users\kiril\OneDrive\Рабочий стол\2Kurs\WinApiLabbs\LabaSharp5\LabaSharp5\bin\Debug\netcoreapp3.1\LabaSharp5.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\2Kurs\WinApiLabbs\LabaSharp5\LabaSharp5\obj\Debug\netcoreapp3.1\LabaSharp5.csprojAssemblyReference.cache
+C:\Users\kiril\OneDrive\Рабочий стол\2Kurs\WinApiLabbs\LabaSharp5\LabaSharp5\obj\Debug\netcoreapp3.1\LabaSharp5.csproj.CoreCompileInputs.cache
+C:\Users\kiril\OneDrive\Рабочий стол\2Kurs\WinApiLabbs\LabaSharp5\LabaSharp5\obj\Debug\netcoreapp3.1\LabaSharp5.AssemblyInfoInputs.cache
+C:\Users\kiril\OneDrive\Рабочий стол\2Kurs\WinApiLabbs\LabaSharp5\LabaSharp5\obj\Debug\netcoreapp3.1\LabaSharp5.AssemblyInfo.cs
+C:\Users\kiril\OneDrive\Рабочий стол\2Kurs\WinApiLabbs\LabaSharp5\LabaSharp5\obj\Debug\netcoreapp3.1\LabaSharp5.dll
+C:\Users\kiril\OneDrive\Рабочий стол\2Kurs\WinApiLabbs\LabaSharp5\LabaSharp5\obj\Debug\netcoreapp3.1\LabaSharp5.pdb
+C:\Users\kiril\OneDrive\Рабочий стол\2Kurs\WinApiLabbs\LabaSharp5\LabaSharp5\obj\Debug\netcoreapp3.1\LabaSharp5.genruntimeconfig.cache
